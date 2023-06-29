@@ -1,0 +1,40 @@
+* {
+    padding:0;
+    margin:0;
+    vertical-align:baseline;
+    list-style:none;
+    border:0
+    }
+
+
+
+
+  .titulo{    background-color: rgb(255, 224, 166);
+    height: 40px;
+    padding: 1em;
+    font-size: 30px;
+    margin-bottom: 20px
+  }
+
+
+h1{text-align: center;}
+
+
+  body {
+    
+   background-color: rgb(243, 215, 137);
+
+
+}
+
+.logo {
+    height: 100px;
+    margin: 10px 45% 0;
+} 
+
+footer{
+    width: 100px ;
+    height: 150px; ;
+}
+
+
