@@ -65,10 +65,7 @@ body{
 
 
 .footer{
-  background-color: #000000DF;
-}
-.footer__p{
-  line-height: 3;
+  background-color: #000000DF;line-height: 3;
   padding: 20px;
   font-family: monospace;
   font-size: 16px;
